@@ -1,0 +1,23 @@
+Animation needs - 
+
+A hero - This doesn't have to be an original model. It can be any model as long it has a free for use license.
+
+The model needs to have a weapon model to accompany it. The weapon can be anything a sword , axe , spear etc.
+
+The model needs to have the following animations.
+
+Idel (standing around)
+Attack (A simple weapon slash)
+Run
+Die
+Jump
+
+The animations should all be seperate actions instead of being on one time line.
+
+Poly count medium 1000 - 3000
+
+The model must be triangulated.
+
+Format - Blender
+
+This should be it for now let me know if there are anythings I missed.
